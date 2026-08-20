@@ -1,0 +1,7 @@
+{
+  "name": "upi-verify",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vercel/python": "^1.0.0"
+  }
+}
